@@ -1,5 +1,5 @@
 def print_hello():
-    # modify this code so it prints out 'Hello World!'
+    '''prints out the Hello World statement'''
     print("Hello World!")
 
 
